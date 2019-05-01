@@ -1,0 +1,8 @@
+{
+  "realm": "spring-security-example",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "keycloak-desktop-app",
+  "public-client": true,
+  "use-resource-role-mappings": true
+}
